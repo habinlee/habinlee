@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @habinlee - Kevin (Seung min) Lee
-- I am an undergraduate software engineer who specializes in providing business insights and making meaningful changes using data. 
-- My core capabilities include cloud infrastructure management, data pipeline architecture, data dealing software engineering, distributed systems and AI/ML algorithms. 
-- I’ve led various projects that have shown significant results made by excellent cooperation and communication with colleagues. 
+👋 Hi, I’m @habinlee - Kevin (Seung min) Lee
+🧑‍🎓 Bachelor's in Mathematics (Statistics, Computer Science minor) @ University of Waterloo
+💻 Data Scientist / Analyst
+🛠️ My Technical Skills : Python SQL C C++ AWS GCP Tableau ...
+✏️ Interests : Data Driven Insights / Decision Making, Finanical (Capital) Markets, Technical Consulting
+⚡ I enjoy: reading, lifting weights and playing instruments :)
 
-My CV : [Kevin Lee Resume.pdf](https://github.com/habinlee/habinlee/files/6950408/Kevin.Lee.Resume.pdf)
+My CV : [Kevin_Lee_CV.pdf](https://github.com/habinlee/habinlee/files/14152624/Kevin_Lee_CV.pdf)
+
 
 <!---
 habinlee/habinlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
